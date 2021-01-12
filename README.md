@@ -2,12 +2,15 @@
 
 #### This repository contains a detailed sample app that :
 - Written in Java (100%)
-- Offline mode - room
 - MVVM architecture 
 - Additional lib: Glide, Retrofit
 - Examples for UI and Unit testing
 - Loading data from this source https://s3-us-west-2.amazonaws.com/taboola-mobile-sdk/public/home_assignment/data.json
 
+
+#### TO do:
+- UI/UX design 
+- JUnit tests
 
 
 #### My timeline: 
