@@ -9,6 +9,7 @@
 - Loading data from this source https://s3-us-west-2.amazonaws.com/taboola-mobile-sdk/public/home_assignment/data.json
 
 
+
 #### My timeline: 
 Day 1 : learning about recyclerview and mvvm
 Day 2: implementing what have learned in first day and learning about Retrofit
