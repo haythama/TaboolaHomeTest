@@ -14,9 +14,9 @@
 
 
 #### My timeline: 
-Day 1 : learning about recyclerview and mvvm
-Day 2: implementing what have learned in first day and learning about Retrofit
-Day 3: Learning about multi type view ib reyclerview and implementing retrfoit in my home assignment 
-Day 4: learning about taboola integration
-Day 5: implementing Taboola widget and feed integration in my project. 
+- Day 1 : learning about recyclerview and mvvm
+- Day 2: implementing what have learned in first day and learning about Retrofit
+- Day 3: Learning about multi type view ib reyclerview and implementing retrfoit in my home assignment 
+- Day 4: learning about taboola integration
+- Day 5: implementing Taboola widget and feed integration in my project. 
 
